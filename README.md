@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @negarloloshahvar
 - 👀 I’m interested in Data Science, Data Analysis, and Machine Learning.
-- 🌱 I’m currently learning Python Programming and SQL.
+- 🌱 I’m currently learning Python, SQL and Tableau.
 - 💞️ I’m looking to collaborate on cool data science projects.
 - 📫 How to reach me: email me on negarshahvar@gmail.com
 
