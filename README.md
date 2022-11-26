@@ -4,10 +4,10 @@
 - 💞️ I’m looking to collaborate on cool data science projects.
 - 📫 How to reach me:
 
-Email: negarshahvar@gmail.com
-LinkedIn: https://www.linkedin.com/in/negarshahvar/
-Portfolio: https://negarloloshahvar.github.io/cv.github.io/
-Tableau Profile: https://public.tableau.com/app/profile/negarshvr
+  - Email: negarshahvar@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/negarshahvar/
+  - Portfolio: https://negarloloshahvar.github.io/cv.github.io/
+  - Tableau Profile: https://public.tableau.com/app/profile/negarshvr
 
 <!---
 negarloloshahvar/negarloloshahvar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
