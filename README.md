@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Negar!
 - 👀 I’m interested in Data Science, Data Analysis, and Machine Learning.
-- 🌱 I’m currently learning Python, SQL, Tableau, and Power BI.
+- 🌱 I’m currently learning Python, SQL, and Power BI.
 - 📫 How to reach me:
 
   - Email: negarshahvar@gmail.com
