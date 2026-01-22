@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Negar! I am an Industrial Engineer and a Data Enthusiast.
+- 👋 Hi, I am an Industrial Engineer and a Data Enthusiast.
 - 👀 I’m interested in Data Science, Data Analysis, and Machine Learning.
 - 📫 How to reach me:
 
